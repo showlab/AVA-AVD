@@ -1,4 +1,5 @@
-## This is the official repo for AVA-AVD dataset and AVR-Net model.
+## This is the official repo copy for AVA-AVD dataset and AVR-Net model.
+You can refer to the [original repo](https://github.com/zcxu-eric/AVA-AVD) for issues.
 Preprints: [AVA-AVD: Audio-visual Speaker Diarization in the Wild](https://arxiv.org/abs/2111.14448)
 ### Dependencies
 
