@@ -18,10 +18,12 @@ pip install -r requirement.txt
 
 Please kindly cite our paper if you find this repo useful:
 ```
-@article{xu2021ava,
-  title={AVA-AVD: Audio-visual Speaker Diarization in the Wild},
-  author={Xu, Eric Zhongcong and Song, Zeyang and Feng, Chao and Ye, Mang and Shou, Mike Zheng},
-  journal={arXiv preprint arXiv:2111.14448},
-  year={2021}
+@inproceedings{xu2022ava,
+author = {Xu, Eric Zhongcong and Song, Zeyang and Tsutsui, Satoshi and Feng, Chao and Ye, Mang and Shou, Mike Zheng},
+title = {AVA-AVD: Audio-Visual Speaker Diarization in the Wild},
+year = {2022},
+pages = {3838–3847},
+location = {Lisboa, Portugal},
+series = {MM '22}
 }
 ```
